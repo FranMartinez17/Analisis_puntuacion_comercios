@@ -1,4 +1,4 @@
-# Practica yelp
+# Práctica yelp
 
 El objetivo de esta práctica es desarrollar el cocli completo de un modelo de Machine Learning. Para ello, aplicamos Yelp dataset, una base de datos que contiene tablas con información relativa a varios negocios.
 
